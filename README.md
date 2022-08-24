@@ -3,7 +3,7 @@
 
 The artwork developed for this submission is based around a combination of a repeating sequence of notes and free running, pitch modulated sine waves. This is connected to a graphical generator taking the numerical audio frequency values as input which then visually represent the sounds. All programming is done in PD.
 
-Conceptually, artwork represents the constantly evolving nature of creative computing. 
+Conceptually, the artwork represents the constantly evolving nature of creative computing. 
 
 For running the PD patch in a browser the WebPd application (https://github.com/sebpiq/WebPd) was utilized. 
 
