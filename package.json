@@ -1,0 +1,22 @@
+{
+  "name": "team-c-hackathon",
+  "version": "1.0.0",
+  "description": "Hackathon Project of Team C",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aysimakarca/team-c-hackathon.git"
+  },
+  "author": "team C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aysimakarca/team-c-hackathon/issues"
+  },
+  "homepage": "https://github.com/aysimakarca/team-c-hackathon#readme",
+  "dependencies": {
+    "webpd": "^0.4.2"
+  }
+}
